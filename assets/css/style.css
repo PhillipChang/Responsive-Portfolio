@@ -216,7 +216,11 @@ input[type=submit] {
   border: 0 none;
 }
 
+
+/* Media-Queries Start Here */
+
 @media screen and (max-width: 980px) {
+
 .portfolio {
  width:100%
 }  
@@ -228,6 +232,9 @@ input[type=submit] {
 }
 .container {
   width:95%;
+}
+.work {
+  width:40%;
 }
 }
 
@@ -279,5 +286,9 @@ nav {
  }
  .container {
    width:100%;
+ }
+
+ .work {
+   width: 90%;
  }
 }
