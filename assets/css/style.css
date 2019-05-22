@@ -271,8 +271,13 @@ nav {
 }
 
 #logo {
-  width:110%;
+  width:123%;
   margin-left:0;
+  transform: translateX(-10%);
+}
+
+nav { 
+  transform: translateX(-15%);
 }
 .auth-image {
   width:100%;
@@ -285,10 +290,13 @@ nav {
    float:none;
  }
  .container {
-   width:100%;
+   width:83%;
  }
-
  .work {
    width: 90%;
  }
+#main-container {
+  margin-top: -18%;
+  margin-bottom: 50%;
+}
 }
