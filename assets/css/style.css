@@ -245,6 +245,9 @@ input[type=submit] {
      width:100%;
    }
    .container {
+     width:95%;
+   }
+   #main-container {
      width:100%;
    }
 }
