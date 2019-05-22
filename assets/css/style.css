@@ -217,7 +217,21 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 980px) {
-
+.portfolio {
+ width:100%
+}  
+.main-section {
+  width: 85%;
+}
+.sidebar {
+  width:35%;
+}
+#masthead {
+  width:100%;
+}
+.container {
+  width:90%;
+}
 }
 
 @media screen and (max-width: 768px) {
